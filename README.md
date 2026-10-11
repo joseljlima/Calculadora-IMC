@@ -30,13 +30,15 @@ Aplicativo desktop para calcular o Índice de Massa Corporal (IMC), salvar os c�
 
 ## Estrutura do projeto
 
+```text
 Calculadora IMC/
-├── main.py # Interface gráfica e navegação entre telas
-├── models.py # Banco de dados e cálculo do IMC
-├── requirements.txt # Dependências do projeto
-├── .gitignore # Arquivos que não vão para o repositório
+├── main.py
+├── models.py
+├── requirements.txt
+├── .gitignore
+├── LICENSE
 └── README.md
-
+```
 
 ## Instalação
 
